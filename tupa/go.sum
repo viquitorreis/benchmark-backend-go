@@ -1,0 +1,4 @@
+github.com/rs/cors v1.10.1 h1:L0uuZVXIKlI1SShY2nhFfo44TYvDPQ1w4oFkUJNfhyo=
+github.com/rs/cors v1.10.1/go.mod h1:XyqrcTp5zjWr1wsJ8PIRZssZ8b/WMcMf71DJnit4EMU=
+github.com/tupatech/tupa v0.0.48 h1:XPbySeNUMhDD5WmB8xkEd7+zEHriBTT9LKd+rUGfumg=
+github.com/tupatech/tupa v0.0.48/go.mod h1:Mm6KClrkGwVZkqtoBC6y/aW3ZMIz3k8kUwnA5dPZFLU=
